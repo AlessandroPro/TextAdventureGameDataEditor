@@ -38,3 +38,5 @@ The above instructions are only if you want the editor save files to load proper
 ---
 
 For the analytics tool, load the database in proj50016.Project1.AP/TextAdventureGame/Build/Assets/Database using the file dialog.
+
+![GameDataTool_Screenshot](https://user-images.githubusercontent.com/15040875/72210060-d0ffb300-3483-11ea-8757-f0541e5de785.PNG)
