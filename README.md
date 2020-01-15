@@ -1,5 +1,4 @@
-Alessandro Profenna 
-Nov 1, 2019
+# Text Adventure Game Data Editor
 
 Game data editor tool:
 
